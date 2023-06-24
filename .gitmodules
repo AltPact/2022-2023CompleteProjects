@@ -1,0 +1,3 @@
+[submodule "CTScanProject"]
+	path = CTScanProject
+	url = git@github.com:AltPact/CTScanProject.git
