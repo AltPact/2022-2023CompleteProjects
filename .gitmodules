@@ -1,3 +1,6 @@
 [submodule "CTScanProject"]
 	path = CTScanProject
 	url = git@github.com:AltPact/CTScanProject.git
+[submodule "WebsitePlanning"]
+	path = WebsitePlanning
+	url = git@github.com:AltPact/WebsitePlanning.git
