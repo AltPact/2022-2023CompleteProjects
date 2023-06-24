@@ -4,3 +4,6 @@
 [submodule "WebsitePlanning"]
 	path = WebsitePlanning
 	url = git@github.com:AltPact/WebsitePlanning.git
+[submodule "RustPractice"]
+	path = RustPractice
+	url = git@github.com:AltPact/RustPractice.git
