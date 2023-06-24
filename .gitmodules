@@ -13,3 +13,6 @@
 [submodule "GameMaking"]
 	path = GameMaking
 	url = git@github.com:AltPact/GameMaking.git
+[submodule "FaceDetectionSoftware"]
+	path = FaceDetectionSoftware
+	url = git@github.com:AltPact/FaceDectionSoftware.git
