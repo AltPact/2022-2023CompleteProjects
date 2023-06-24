@@ -10,3 +10,6 @@
 [submodule "OptimisationProject"]
 	path = OptimisationProject
 	url = git@github.com:AltPact/OptimisationProject.git
+[submodule "GameMaking"]
+	path = GameMaking
+	url = git@github.com:AltPact/GameMaking.git
