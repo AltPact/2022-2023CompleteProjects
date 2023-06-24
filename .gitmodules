@@ -7,3 +7,6 @@
 [submodule "RustPractice"]
 	path = RustPractice
 	url = git@github.com:AltPact/RustPractice.git
+[submodule "OptimisationProject"]
+	path = OptimisationProject
+	url = git@github.com:AltPact/OptimisationProject.git
